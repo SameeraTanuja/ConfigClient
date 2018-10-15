@@ -1,14 +1,15 @@
-package com.capgemini.configclient;
+/*package com.capgemini.configclient;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.web.bind.annotation.GetMapping;
-
 import org.springframework.web.bind.annotation.RestController;
 
 @RefreshScope
 @RestController
 public class MessageResource {
+	
+
 	public void setMessage(String message) {
 		this.message = message;
 	}
@@ -21,3 +22,4 @@ public class MessageResource {
 	}
 
 }
+*/
